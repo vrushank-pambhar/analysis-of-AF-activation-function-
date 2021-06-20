@@ -1,1 +1,2 @@
 # analysis-of-AF-activation-function-
+This is for analysis of AF. From this we can get to know about which AF is performing well for getting the good results. For that I used Data set called Bank_NoteAuthentication. I created ANN models from this data set and used different Activation Functions for different models to train the data. so we can come to know about which activation function is giving good result according to this data set.
